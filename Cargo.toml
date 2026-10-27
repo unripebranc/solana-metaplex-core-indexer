@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-metaplex-core-indexer"]
+resolver = "2"
